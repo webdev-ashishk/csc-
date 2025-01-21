@@ -1,0 +1,18 @@
+# List of Services
+- pencard
+- edistric ( income ,caste, domacile)
+- voter id
+- shamuhik shadi
+- up 5lack loan
+- scholarship
+- birth & death certificate
+- Police character certificate
+- rastri parivarik labh
+- - - - Photo ----------------
+- 50kb image compress
+- image to pdf
+- bhulek ( khatoni)
+- pdf currection 
+------- download ----------
+- ration card download 
+- download AadharCard
