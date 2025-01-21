@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "50KB Image Compress",
+    "description": "Compress your images to 50KB without losing quality for online uploads.",
+    "imageUrl": "https://example.com/images/50kb-compress.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Image to PDF",
+    "description": "Convert your images into high-quality PDFs easily and quickly.",
+    "imageUrl": "https://example.com/images/image-to-pdf.jpg"
+  },
+
+  {
+    "id": 4,
+    "title": "PDF Correction",
+    "description": "Edit and correct errors in your PDF documents seamlessly.",
+    "imageUrl": "https://example.com/images/pdf-correction.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Image Photo , Signature resize ",
+    "description": "Resizing the signature and photo for NSDL",
+    "imageUrl": "https://example.com/images/50kb-compress.jpg"
+  }
+]

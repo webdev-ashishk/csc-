@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Bhulek (Khatoni)",
+    "description": "Access and download Bhulek (Khatoni) records for land details.",
+    "imageUrl": "https://example.com/images/bhulek.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Aadhar Card Download",
+    "description": "Download your Aadhaar card in a secure and convenient way.",
+    "imageUrl": "https://example.com/images/aadhar-card.jpg"
+  },
+  {
+    "id": 3,
+    "title": "COVID-19 Certificate Download",
+    "description": "Download your COVID-19 vaccination certificate online quickly.",
+    "imageUrl": "https://example.com/images/covid-certificate.jpg"
+  },
+
+  {
+    "id": 4,
+    "title": "Ration Card Download",
+    "description": "Download your ration card online for easy access to government benefits.",
+    "imageUrl": "https://example.com/images/ration-card.jpg"
+  }
+]
