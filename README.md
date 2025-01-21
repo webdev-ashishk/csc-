@@ -1,4 +1,5 @@
 # List of Services
+
 - pencard
 - edistric ( income ,caste, domacile)
 - voter id
@@ -8,11 +9,13 @@
 - birth & death certificate
 - Police character certificate
 - rastri parivarik labh
-- - - - Photo ----------------
+- Kanya Sumangala online form
+- - - - Photo - - - - - - - - - - - -
 - 50kb image compress
 - image to pdf
 - bhulek ( khatoni)
-- pdf currection 
-------- download ----------
-- ration card download 
-- download AadharCard
+- pdf currection
+- - - - - - Download - - - - - - - - - -
+- ration card Download
+- AadharCard Download
+- covid 19 certificate Download
