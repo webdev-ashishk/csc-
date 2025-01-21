@@ -3,25 +3,24 @@
 export default function Registration({ RegistrationData }) {
   console.log(RegistrationData);
   return (
-    <section>
-      <h1 className="text-5xl font-bold text-center text-blue-500 p-4">
-        Apply New Forms
+    <section className="">
+      <h1 className="text-5xl font-bold text-center text-blue-500 uppercase p-4">
+        New Forms
       </h1>
-      <hr className="pb-4" />
-      <article className="flex justify-start w-10/12  mx-auto items-center flex-wrap gap-4">
+
+      <article className="flex justify-start items-start flex-wrap bg-gray-100 p-2 m-2">
         {RegistrationData.map((element) => (
           <article
             key={element.id}
-            className="hover:bg-blue-300 rounded-lg p-2 m-2 bg-gray-400"
+            className="hover:bg-blue-300 bg-blue-100 overflow-hidden mx-auto rounded-lg p-2 m-2 border-2 w-[300px]
+            h-[200px]"
           >
             <img
               src={element.imageUrl}
-              width={300}
-              height={100}
               alt="registration-services-image"
               className="rounded-lg"
             />
-            <p className="font-extrabold text-3xl text-center">
+            <p className="font-extrabold text-1xl text-center">
               {element.title}
             </p>
           </article>
