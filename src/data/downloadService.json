@@ -3,18 +3,21 @@
     "id": 1,
     "title": "Bhulek (Khatoni)",
     "description": "Access and download Bhulek (Khatoni) records for land details.",
+    "link": "https://upbhulekh.gov.in/",
     "imageUrl": "https://www.godigit.com/content/dam/godigit/directportal/en/contenthm/up-bhulekh.jpg"
   },
   {
     "id": 2,
     "title": "Aadhar Card Download",
     "description": "Download your Aadhaar card in a secure and convenient way.",
+    "link": "https://myaadhaar.uidai.gov.in/genricDownloadAadhaar",
     "imageUrl": "https://www.fastjobsearchers.com/assets/images/blog/aadhar-card-download.webp"
   },
   {
     "id": 3,
     "title": "COVID-19 Certificate Download",
     "description": "Download your COVID-19 vaccination certificate online quickly.",
+    "link": "https://selfregistration.cowin.gov.in/",
     "imageUrl": "https://www.shutterstock.com/image-vector/illustration-graphic-vector-corona-virus-600nw-1690070212.jpg"
   },
 
@@ -22,6 +25,7 @@
     "id": 4,
     "title": "Ration Card Download",
     "description": "Download your ration card online for easy access to government benefits.",
+    "link": "https://nfsa.up.gov.in/Food/TrackingRationCard/NFSARCSearch.aspx",
     "imageUrl": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202201/ration-card-kaise-banaye-sixteen_nine.png?size=948:533"
   }
 ]

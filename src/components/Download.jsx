@@ -16,11 +16,13 @@ export default function Download({ DownloadServices }) {
               key={element.id}
               className="w-[300px] h-[220px] border-2 rounded-lg m-2 p-4 bg-green-100 hover:bg-green-200"
             >
-              <img
-                src={element.imageUrl}
-                alt="download-image"
-                className="rounded-2xl"
-              />
+              <a to={element.link} target="_blank">
+                <img
+                  src={element.imageUrl}
+                  alt="download-image"
+                  className="rounded-2xl"
+                />
+              </a>
               <p className="text-1xl font-semibold text-center">
                 {element.title}
               </p>
