@@ -14,14 +14,16 @@ export default function Download({ DownloadServices }) {
           return (
             <article
               key={element.id}
-              className="w-[300px] h-[200px] border-2 rounded-lg m-2 p-2 bg-green-100 hover:bg-green-200"
+              className="w-[300px] h-[220px] border-2 rounded-lg m-2 p-4 bg-green-100 hover:bg-green-200"
             >
               <img
                 src={element.imageUrl}
                 alt="download-image"
                 className="rounded-2xl"
               />
-              <p className="text-2xl font-bold text-center">{element.title}</p>
+              <p className="text-1xl font-semibold text-center">
+                {element.title}
+              </p>
             </article>
           );
         })}

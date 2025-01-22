@@ -10,7 +10,7 @@ export default function Registration({ RegistrationData }) {
         </i>
       </p>
 
-      <article className="flex justify-center items-center flex-wrap bg-gray-100 p-2 m-2">
+      <article className="flex justify-center items-center flex-wrap bg-gray-100 p-4 m-2">
         {RegistrationData.map((element) => (
           <article
             key={element.id}
@@ -22,9 +22,7 @@ export default function Registration({ RegistrationData }) {
               alt="registration-services-image"
               className="rounded-lg"
             />
-            <p className="font-extrabold text-1xl text-center">
-              {element.title}
-            </p>
+            <p className="font-bold text-1xl text-center">{element.title}</p>
           </article>
         ))}
       </article>
