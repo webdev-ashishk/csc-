@@ -17,11 +17,13 @@ export default function Registration({ RegistrationData }) {
             className="hover:bg-blue-300 bg-blue-100 overflow-hidden mx-auto rounded-lg p-2 m-2 border-2 w-[300px]
           h-[200px]"
           >
-            <img
-              src={element.imageUrl}
-              alt="registration-services-image"
-              className="rounded-lg"
-            />
+            <a href={`${element.link}`} target="_blank">
+              <img
+                src={element.imageUrl}
+                alt="registration-services-image"
+                className="rounded-lg"
+              />
+            </a>
             <p className="font-bold text-1xl text-center">{element.title}</p>
           </article>
         ))}

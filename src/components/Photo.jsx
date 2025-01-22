@@ -16,11 +16,13 @@ export default function Photo({ PhotoServiceData }) {
               key={element.id}
               className="w-[300px] h-[220px] border-2 rounded-lg bg-red-100 hover:bg-red-300 p-4 m-2 overflow-hidden"
             >
-              <img
-                src={element.imageUrl}
-                alt="photo-related-service-image"
-                className="rounded-2xl"
-              />
+              <a href={`${element.link}`} target="_blank">
+                <img
+                  src={element.imageUrl}
+                  alt="photo-related-service-image"
+                  className="rounded-2xl"
+                />
+              </a>{' '}
               <p className="text-center font-bold text-1xl overflow-hidden">
                 {element.title}
               </p>
