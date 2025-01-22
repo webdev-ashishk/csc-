@@ -25,7 +25,7 @@ const Header = () => {
         </article>
         <nav className="text-1xl font-semibold" id="desktopItems">
           <ul className="flex lg:gap-5 md:gap-3 gap-2 justify-center items-center mr-10">
-            <li onClick={handleMenuClicked}>
+            <li>
               <a href="/">Home</a>
             </li>
             <li>
@@ -50,8 +50,9 @@ const Header = () => {
           }}
         />
       </section>
+      {/* mobile Items */}
       {openMenu && (
-        <nav id="mobileMenuItems" className="">
+        <nav id="mobileMenuItems" className="" onClick={handleMenuClicked}>
           <ul className="flex flex-col lg:gap-5 md:gap-3 gap-1 justify-center items-center">
             <li>
               <a href="#home">Home</a>
