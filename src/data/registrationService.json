@@ -60,5 +60,17 @@
     "title": "PAN Card",
     "description": "Apply for or update your PAN card online effortlessly.",
     "imageUrl": "https://images.livemint.com/img/2019/10/25/600x338/pan_card_1565610340828_1572021543426.PNG"
+  },
+  {
+    "id": 100,
+    "title": "Driving Licence",
+    "description": "Apply for or update your PAN card online effortlessly.",
+    "imageUrl": "https://lh3.googleusercontent.com/oQ4_Dkwdk5drcGCQByMj2rY8g-Rd3ubKwhT_I0okDRC0g65poHCbpP7aJ5ok-3wnNH8-"
+  },
+  {
+    "id": 200,
+    "title": "PM kishan ",
+    "description": "Apply for or update your PAN card online effortlessly.",
+    "imageUrl": "https://images.news18.com/ibnkhabar/uploads/2020/03/pm-kisan-1.jpg?im=FitAndFill,width=1200,height=900"
   }
 ]
