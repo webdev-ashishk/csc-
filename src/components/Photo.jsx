@@ -2,13 +2,12 @@
 export default function Photo({ PhotoServiceData }) {
   console.log(PhotoServiceData);
   return (
-    <section>
+    <section className="pt-24" id="photoServices">
       <p className="text-center my-3">
         <i className="text-center font-extrabold uppercase text-4xl text-red-500 my-5">
           Photos Services
         </i>
       </p>
-      <hr />
       <article className="bg-gray-200 rounded-lg flex flex-wrap justify-start items-center gap-4 p-4 m-2">
         {PhotoServiceData.map((element) => {
           return (

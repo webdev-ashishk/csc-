@@ -2,13 +2,12 @@
 export default function Download({ DownloadServices }) {
   console.log(DownloadServices);
   return (
-    <section className="">
+    <section className="pt-20" id="downloadServices">
       <p className="text-center my-4">
         <i className="text-4xl text-green-400 font-extrabold text-center uppercase my-5">
           Download Services
         </i>
       </p>
-      <hr />
       <article className="bg-gray-100 rounded-lg flex flex-wrap justify-center items-center gap-4 p-4 m-2">
         {DownloadServices.map((element) => {
           return (

@@ -9,7 +9,7 @@ export default function Services() {
     <section>
       <Registration RegistrationData={RegistrationData} />
       <Photo PhotoServiceData={PhotoServiceData} />
-      <Download DownloadServices={DownloadServices} />
+      <Download DownloadServices={DownloadServices}  />
     </section>
   );
 }

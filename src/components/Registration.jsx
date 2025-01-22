@@ -4,8 +4,8 @@ export default function Registration({ RegistrationData }) {
   console.log(RegistrationData);
   return (
     <section className="">
-      <p className="text-center">
-        <i className="text-4xl font-extrabold text-center text-blue-500 uppercase p-4">
+      <p className="text-center py-7">
+        <i className="text-4xl font-extrabold text-center text-blue-500 uppercase">
           New Forms
         </i>
       </p>
