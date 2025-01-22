@@ -26,7 +26,7 @@ const Header = () => {
         <nav className="text-1xl font-semibold" id="desktopItems">
           <ul className="flex lg:gap-5 md:gap-3 gap-2 justify-center items-center mr-10">
             <li>
-              <a href="/">Home</a>
+              <a href="#home">Home</a>
             </li>
             <li>
               <a href="#photoServices">PhotoService </a>
@@ -55,7 +55,7 @@ const Header = () => {
         <nav id="mobileMenuItems" className="" onClick={handleMenuClicked}>
           <ul className="flex flex-col lg:gap-5 md:gap-3 gap-1 justify-center items-center">
             <li>
-              <a href="#home">Home</a>
+              <a href="/#home">Home</a>
             </li>
             <li>
               <a href="#photoServices">PhotoService </a>
