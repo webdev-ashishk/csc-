@@ -22,6 +22,8 @@ export default function Registration({ RegistrationData }) {
                 src={element.imageUrl}
                 alt="registration-services-image"
                 className="rounded-lg"
+                width={300}
+                height={200}
               />
             </a>
             <p className="font-bold text-1xl text-center">{element.title}</p>

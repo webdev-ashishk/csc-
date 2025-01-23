@@ -20,6 +20,8 @@ export default function Photo({ PhotoServiceData }) {
                   src={element.imageUrl}
                   alt="photo-related-service-image"
                   className="rounded-2xl"
+                  width={300}
+                  height={200}
                 />
               </a>{' '}
               <p className="text-center font-bold text-1xl overflow-hidden">

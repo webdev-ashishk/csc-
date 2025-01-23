@@ -20,6 +20,8 @@ export default function Download({ DownloadServices }) {
                   src={element.imageUrl}
                   alt="download-image"
                   className="rounded-2xl"
+                  width={300}
+                  height={200}
                 />
               </a>
               <p className="text-1xl font-semibold text-center">
