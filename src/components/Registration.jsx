@@ -5,12 +5,12 @@ export default function Registration({ RegistrationData }) {
   return (
     <section className="">
       <p className="text-center py-7">
-        <i className="text-4xl font-extrabold text-center text-blue-500 uppercase">
+        <i className="text-[1.5rem] font-extrabold text-center text-blue-500 uppercase">
           New Forms
         </i>
       </p>
 
-      <article className="flex justify-center items-center flex-wrap bg-gray-100 p-4 m-2">
+      <article className="flex justify-center items-center flex-wrap bg-gray-100 p-4 m-2 py-10">
         {RegistrationData.map((element) => (
           <article
             key={element.id}

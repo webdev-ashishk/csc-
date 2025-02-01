@@ -4,11 +4,11 @@ export default function Download({ DownloadServices }) {
   return (
     <section className="pt-20" id="downloadServices">
       <p className="text-center my-4">
-        <i className="text-4xl text-green-400 font-extrabold text-center uppercase my-5">
+        <i className="text-[1.5rem] text-green-700 font-extrabold text-center uppercase my-5">
           Download Services
         </i>
       </p>
-      <article className="bg-gray-100 rounded-lg flex flex-wrap justify-center items-center gap-4 p-4 m-2">
+      <article className="bg-gray-100 rounded-lg flex flex-wrap justify-start items-center gap-4 p-4 m-2 py-10">
         {DownloadServices.map((element) => {
           return (
             <article
