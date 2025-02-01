@@ -24,7 +24,7 @@ export default function Download({ DownloadServices }) {
                   height={200}
                 />
               </a>
-              <p className="text-1xl font-semibold text-center">
+              <p className="text-[0.9rem] font-semibold text-center">
                 {element.title}
               </p>
             </article>

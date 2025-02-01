@@ -15,17 +15,31 @@
   },
 
   {
-    "id": 4,
+    "id": 3,
     "title": "PDF Correction",
     "description": "Edit and correct errors in your PDF documents seamlessly.",
     "link": "https://www.sejda.com/",
     "imageUrl": "https://apollo.olx.in/v1/files/4t74x59aj39e2-IN/image;s=360x0"
   },
   {
-    "id": 5,
+    "id": 4,
     "title": "Resize Photo,Signature",
     "description": "Resizing the signature and photo for NSDL",
     "link": "https://pancardresizer.com/",
     "imageUrl": "https://i.ytimg.com/vi/0ntTs1K4_iI/hq720.jpg?sqp=-oaymwEnCK4FEIIDSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDuAK33r8Y&rs=AOn4CLB3aYVBy14TPNy3VYp9ai1VOw3Hng"
+  },
+  {
+    "id": 5,
+    "title": " Pdf Compressor",
+    "description": "Resizing the signature and photo for NSDL",
+    "link": "https://pdf.pi7.org/compress-pdf-to-300kb",
+    "imageUrl": "https://www.syncfusion.com/blogs/wp-content/uploads/2018/08/Tile_COMPRESS_PDF04_aa3f509a.png"
+  },
+  {
+    "id": 6,
+    "title": "Remove Background",
+    "description": "Resizing the signature and photo for NSDL",
+    "link": "https://www.remove.bg/",
+    "imageUrl": "https://ignacio-velasquez.notion.site/image/https%3A%2F%2Fsb.kaleidousercontent.com%2F67418%2F1200x630%2Ff1247b0410%2Fremove-bg.jpg?table=block&id=9c44854c-497a-4e71-97ed-e9c9a772879c&userId=&cache=v2"
   }
 ]

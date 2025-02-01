@@ -26,7 +26,9 @@ export default function Registration({ RegistrationData }) {
                 height={200}
               />
             </a>
-            <p className="font-bold text-1xl text-center">{element.title}</p>
+            <p className="font-bold text-[0.9rem] text-center">
+              {element.title}
+            </p>
           </article>
         ))}
       </article>

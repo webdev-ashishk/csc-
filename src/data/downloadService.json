@@ -27,5 +27,19 @@
     "description": "Download your ration card online for easy access to government benefits.",
     "link": "https://nfsa.up.gov.in/Food/TrackingRationCard/NFSARCSearch.aspx",
     "imageUrl": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202201/ration-card-kaise-banaye-sixteen_nine.png?size=948:533"
+  },
+  {
+    "id": 5,
+    "title": "PenCard",
+    "description": "Download your ration card online for easy access to government benefits.",
+    "link": "https://www.onlineservices.nsdl.com/paam/requestAndDownloadEPAN.html",
+    "imageUrl": "https://i.ytimg.com/vi/TrSocfiqfzE/maxresdefault.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Voter ID",
+    "description": "Download your ration card online for easy access to government benefits.",
+    "link": "https://electoralsearch.eci.gov.in/",
+    "imageUrl": "https://tse-mm.bing.com/th?q=voter%20id%20download"
   }
 ]

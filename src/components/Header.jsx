@@ -23,7 +23,7 @@ const Header = () => {
             </h1>
           </a>
         </article>
-        <nav className="text-1xl font-semibold" id="desktopItems">
+        <nav className="" id="desktopItems">
           <ul className="flex lg:gap-5 md:gap-3 gap-2 justify-center items-center mr-10">
             <li>
               <a href="#home">Home</a>
