@@ -1,16 +1,19 @@
 /* eslint-disable react/prop-types */
 
+import Welcome from './Welcome';
+
 export default function Registration({ RegistrationData }) {
   console.log(RegistrationData);
   return (
     <section className="">
+      <Welcome className="" id="welcome2" />
       <p className="text-center py-7">
         <i className="text-[1.5rem] font-extrabold text-center text-blue-500 uppercase">
           New Forms
         </i>
       </p>
 
-      <article className="flex justify-center items-center flex-wrap bg-gray-100 p-4 m-2 py-10 rounded-2xl">
+      <article className="flex justify-center items-center flex-wrap bg-gray-200 p-4 m-2 py-10 rounded-2xl shadow-2xl shadow-blue-800">
         {RegistrationData.map((element) => (
           <article
             key={element.id}

@@ -62,3 +62,12 @@ https://myaadhaar.uidai.gov.in/CheckAadhaarStatus/en
 ### jansmanith loan ?????
 
 ### pm muddra loan ?????
+
+### electriciy bill payment
+
+```
+https://consumer.uppcl.org/wss/pay_bill_home
+
+```
+
+

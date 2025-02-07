@@ -6,7 +6,7 @@ import Services from './components/Services';
 
 function App() {
   return (
-    <section className="text-2xl mx-auto" id="home">
+    <section className="text-2xl mx-auto bg-[#f1f5f8]" id="home">
       <Header />
       <div className="lg:w-11/12 md:w-11/12 w-full m-auto">
         <Services />

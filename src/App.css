@@ -13,6 +13,9 @@ nav > ul > li:hover {
 }
 
 @media (max-width: 1004px) {
+  #welcome2 {
+    display: none;
+  }
   #desktopItems {
     display: none;
   }

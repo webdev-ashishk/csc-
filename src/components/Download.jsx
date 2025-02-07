@@ -8,7 +8,7 @@ export default function Download({ DownloadServices }) {
           Download Services
         </i>
       </p>
-      <article className="bg-gray-100 rounded-lg flex flex-wrap  lg:justify-start justify-center items-center gap-4 p-4 m-2 py-10">
+      <article className="bg-gray-200 rounded-lg flex flex-wrap  lg:justify-start justify-center items-center gap-4 p-4 m-2 py-10 shadow-2xl shadow-green-800">
         {DownloadServices.map((element) => {
           return (
             <article

@@ -62,7 +62,7 @@ const Header = () => {
           className="block "
           onClick={handleMenuClicked}
         >
-          <ul className="absolute z-40 flex flex-col lg:gap-5 md:gap-3 justify-center items-center w-full text-white text-[1rem]">
+          <ul className="absolute z-40 flex flex-col lg:gap-5 md:gap-3 justify-center items-center w-full text-white text-[1rem] bg-gray-500">
             <li>
               <a href="/#home">Home</a>
             </li>
