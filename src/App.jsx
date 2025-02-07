@@ -6,10 +6,12 @@ import Services from './components/Services';
 
 function App() {
   return (
-    <section className="text-2xl lg:w-11/12 md:w-11/12 w-full m-auto" id="home">
+    <section className="text-2xl mx-auto" id="home">
       <Header />
-      <Services />
-      <ContactUs />
+      <div className="lg:w-11/12 md:w-11/12 w-full m-auto">
+        <Services />
+        <ContactUs />
+      </div>
       <Footer />
     </section>
   );

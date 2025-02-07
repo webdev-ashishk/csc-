@@ -10,8 +10,8 @@ const Header = () => {
 
   console.log(openMenu);
   return (
-    <>
-      <section className="bg-gray-400 flex justify-between items-center top-0 sticky">
+    <div className="w-full bg-gray-400 top-0 sticky">
+      <section className="bg-gray-400 flex justify-between items-center  lg:w-11/12 w-full mx-auto">
         <article>
           <a href="/#home">
             <h1 className="text-purple-900 text-4xl font-extrabold p-2 px-4 inline-block rounded-full m-2">
@@ -57,7 +57,11 @@ const Header = () => {
       </section>
       {/* mobile Items */}
       {openMenu && (
-        <nav id="mobileMenuItems" className="block" onClick={handleMenuClicked}>
+        <nav
+          id="mobileMenuItems"
+          className="block "
+          onClick={handleMenuClicked}
+        >
           <ul className="absolute z-40 flex flex-col lg:gap-5 md:gap-3 justify-center items-center w-full text-white text-[1rem]">
             <li>
               <a href="/#home">Home</a>
@@ -77,7 +81,7 @@ const Header = () => {
           </ul>
         </nav>
       )}
-    </>
+    </div>
   );
 };
 export default Header;
