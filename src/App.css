@@ -21,7 +21,7 @@ nav > ul > li:hover {
   }
   #mobileMenuItems > ul > li {
     width: 100%;
-    background-color: bisque;
+    background-color: #a37dc1;
     text-align: center;
   }
 }

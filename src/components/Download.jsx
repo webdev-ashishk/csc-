@@ -8,18 +8,18 @@ export default function Download({ DownloadServices }) {
           Download Services
         </i>
       </p>
-      <article className="bg-gray-100 rounded-lg flex flex-wrap justify-start items-center gap-4 p-4 m-2 py-10">
+      <article className="bg-gray-100 rounded-lg flex flex-wrap  lg:justify-start justify-center items-center gap-4 p-4 m-2 py-10">
         {DownloadServices.map((element) => {
           return (
             <article
               key={element.id}
-              className="w-[300px] h-[220px] border-2 rounded-lg m-2 p-4 bg-green-100 hover:bg-green-200"
+              className="w-[300px] h-[220px] hover:border-2 hover:border-green-400 rounded-2xl overflow-y-hidden bg-green-100 hover:bg-green-200"
             >
               <a href={`${element.link}`} target="_blank">
                 <img
                   src={element.imageUrl}
                   alt="download-image"
-                  className="rounded-2xl"
+                  className=""
                   width={300}
                   height={200}
                 />

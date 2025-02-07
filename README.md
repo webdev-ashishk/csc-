@@ -52,3 +52,13 @@ If cyber cafes or users have provided feedback, include a case study or testimon
 ### Example:
 
 > "QuickLinks has saved us hours of searching for the right websites. It's a lifesaver for our daily operations!" – Local Cyber Cafe Owner
+
+#### check aadhar update
+
+```
+https://myaadhaar.uidai.gov.in/CheckAadhaarStatus/en
+```
+
+### jansmanith loan ?????
+
+### pm muddra loan ?????

@@ -15,7 +15,7 @@ const Header = () => {
   console.log(openMenu);
   return (
     <>
-      <section className="bg-blue-300 flex justify-between items-center top-0 sticky">
+      <section className="bg-gray-400 flex justify-between items-center top-0 sticky">
         <article>
           <a href="/#home">
             <h1 className="text-purple-900 text-4xl font-extrabold p-2 px-4 inline-block rounded-full m-2">
@@ -53,16 +53,19 @@ const Header = () => {
       {/* mobile Items */}
       {openMenu && (
         <nav id="mobileMenuItems" className="" onClick={handleMenuClicked}>
-          <ul className="flex flex-col lg:gap-5 md:gap-3 gap-1 justify-center items-center">
+          <ul className="flex flex-col lg:gap-5 md:gap-3 justify-center items-center">
             <li>
               <a href="/#home">Home</a>
             </li>
+            <hr />
             <li>
               <a href="#photoServices">PhotoService </a>
             </li>
+            <hr />
             <li>
               <a href="#downloadServices">DownloadSerivce</a>
             </li>
+            <hr />
             <li>
               <a href="#contactUs">ContactUs</a>
             </li>

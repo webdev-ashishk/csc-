@@ -8,12 +8,12 @@ export default function Photo({ PhotoServiceData }) {
           Photos Services
         </i>
       </p>
-      <article className="bg-gray-200 rounded-2xl flex flex-wrap justify-start items-center gap-4 p-4 m-2 py-10">
+      <article className="bg-gray-200 rounded-2xl flex flex-wrap lg:justify-start justify-center items-center gap-4 p-4 m-2 py-10">
         {PhotoServiceData.map((element) => {
           return (
             <article
               key={element.id}
-              className="w-[300px] h-[220px] border-2 rounded-2xl bg-red-200 hover:bg-red-300  overflow-hidden"
+              className="w-[300px] h-[220px] hover:border-2 hover:border-red-400 rounded-2xl bg-red-200 hover:bg-red-300  overflow-hidden"
             >
               <a href={`${element.link}`} target="_blank">
                 <img
