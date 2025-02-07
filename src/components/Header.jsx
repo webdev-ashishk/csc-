@@ -1,17 +1,13 @@
 import { useState } from 'react';
+import { CiMenuFries } from 'react-icons/ci';
+import { IoMdClose } from 'react-icons/io';
 
 const Header = () => {
   const [openMenu, setOpenMenu] = useState(false);
   function handleMenuClicked() {
     setOpenMenu(!openMenu);
   }
-  const smoothScroll = (cb) => {
-    window.scrollTo({
-      top: '0',
-      behavior: 'smooth',
-    });
-    cb();
-  };
+
   console.log(openMenu);
   return (
     <>
@@ -39,25 +35,34 @@ const Header = () => {
             </li>
           </ul>
         </nav>
-        <img
+        {/* <img
           src="https://img.icons8.com/m_rounded/512w/228BE6/hamburger.png"
           alt="mobile item"
-          id="hamburgerMenuIcon"
+         
           width="50"
           className="mr-4 cursor-pointer hidden"
           onClick={() => {
             smoothScroll(handleMenuClicked);
           }}
-        />
+        /> */}
+        <div
+          className="hidden mr-2 text-3xl font-extrabold text-white cursor-pointer"
+          id="hamburgerMenuIcon"
+          onClick={() => {
+            handleMenuClicked();
+          }}
+        >
+          {openMenu ? <IoMdClose /> : <CiMenuFries />}
+        </div>
       </section>
       {/* mobile Items */}
       {openMenu && (
-        <nav id="mobileMenuItems" className="" onClick={handleMenuClicked}>
-          <ul className="flex flex-col lg:gap-5 md:gap-3 justify-center items-center">
+        <nav id="mobileMenuItems" className="block" onClick={handleMenuClicked}>
+          <ul className="absolute z-40 flex flex-col lg:gap-5 md:gap-3 justify-center items-center w-full text-white text-[1rem]">
             <li>
               <a href="/#home">Home</a>
             </li>
-            <hr />
+            <hr className="" />
             <li>
               <a href="#photoServices">PhotoService </a>
             </li>
