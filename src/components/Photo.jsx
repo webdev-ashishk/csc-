@@ -10,7 +10,7 @@ export default function Photo({ PhotoServiceData }) {
           Photos Services
         </i>
       </p>
-      <article className="bg-gray-200 rounded-2xl flex flex-wrap lg:justify-start justify-center items-center gap-4 p-8 m-2 py-10 shadow-2xl shadow-red-200">
+      <article className="bg-gray-200 rounded-2xl flex flex-wrap lg:justify-start justify-center items-center gap-4 p-8 m-2 py-12 shadow-2xl shadow-red-200">
         {PhotoServiceData.map((element) => {
           return (
             <article

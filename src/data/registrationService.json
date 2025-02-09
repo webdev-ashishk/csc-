@@ -80,10 +80,17 @@
     "link": "https://parivahan.gov.in/parivahan/"
   },
   {
-    "id": 200,
-    "title": "PM kishan ",
+    "id": 999,
+    "title": "Labour Card || Panjiyan",
     "description": "Apply for or update your PAN card online effortlessly.",
-    "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhDBLQ4VIVWsRgiq0QuSbCNOcwSlLoibXgq7JhGffyfyG_8jiuqcMbnu_Lg73JBoEqjR993MBv4i7NciSgvTSejVxTG1q5goURUVNUbtZeTI4bmokGWIF1Z-ZS4g19CcnXwQuPKoy5mPMkjLjWmiwBrJFW3iXN-DqCsw828y6QJNnsoV3A6qmo03ZpezzQ",
-    "link": "https://pmkisan.gov.in/registrationformnew.aspx"
+    "imageUrl": "https://i.ytimg.com/vi/tHznoWrlhKw/maxresdefault.jpg",
+    "link": "https://www.upbocw.in/"
+  },
+  {
+    "id": 990,
+    "title": "Manrega Card || Nrega Card",
+    "description": "Apply for or update your PAN card online effortlessly.",
+    "imageUrl": "https://akm-img-a-in.tosshub.com/aajtak/images/story/201509/mnrega_144231342838_650x425_091515040830.jpg?size=948:533",
+    "link": "https://nrega.nic.in/homegp_new.aspx"
   }
 ]

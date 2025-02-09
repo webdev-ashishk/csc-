@@ -9,7 +9,7 @@ export default function Payment({ PaymentData }) {
       >
         Payment!
       </h1>
-      <article className="p-8 m-2 bg-gray-200 rounded-2xl flex flex-wrap lg:justify-start justify-center items-center">
+      <article className="p-8 m-2 bg-gray-200 rounded-2xl flex flex-wrap lg:justify-start justify-center items-center shadow-lg shadow-blue-600 py-12">
         {PaymentData.map((element) => {
           return (
             <article
