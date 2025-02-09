@@ -3,7 +3,7 @@ import { FaArrowUpRightFromSquare } from 'react-icons/fa6';
 const Footer = () => {
   const currentYearDate = new Date().getFullYear();
   return (
-    <footer className="rounded-xl">
+    <footer className="rounded-xl" id="space-mono-bold-italic">
       <p className="text-center m-3 p-4">
         Copyright {currentYearDate} | Developed by
         <span className="text-purple-700 font-bold hover:text-green-500 mx-2 px-2">

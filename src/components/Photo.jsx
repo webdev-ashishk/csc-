@@ -4,7 +4,10 @@ export default function Photo({ PhotoServiceData }) {
   return (
     <section className="pt-24" id="photoServices">
       <p className="text-center my-3">
-        <i className="text-center font-extrabold uppercase text-[1.5rem] text-red-500 my-5">
+        <i
+          className="text-center font-extrabold  text-[2rem] text-red-500 my-5"
+          id="space-mono-bold-italic"
+        >
           Photos Services
         </i>
       </p>

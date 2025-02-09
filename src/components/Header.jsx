@@ -10,7 +10,10 @@ const Header = () => {
 
   console.log(openMenu);
   return (
-    <div className="w-full bg-gray-400 top-0 sticky">
+    <div
+      className="w-full bg-gray-400 top-0 sticky"
+      id="space-mono-bold-italic"
+    >
       <section className="bg-gray-400 flex justify-between items-center  lg:w-11/12 w-full mx-auto">
         <article>
           <a href="/#home">

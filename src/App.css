@@ -28,3 +28,14 @@ nav > ul > li:hover {
     text-align: center;
   }
 }
+#space-mono-bold-italic {
+  font-family: 'Space Mono', serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.poppins-black-italic {
+  font-family: 'Poppins', serif;
+  font-weight: 900;
+  font-style: italic;
+}

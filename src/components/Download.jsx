@@ -4,7 +4,10 @@ export default function Download({ DownloadServices }) {
   return (
     <section className="pt-20" id="downloadServices">
       <p className="text-center my-4">
-        <i className="text-[1.5rem] text-green-700 font-extrabold text-center uppercase my-5">
+        <i
+          className="text-[2rem] text-green-700 font-extrabold text-center  my-5"
+          id="space-mono-bold-italic"
+        >
           Download Services
         </i>
       </p>

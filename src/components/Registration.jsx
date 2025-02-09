@@ -8,9 +8,12 @@ export default function Registration({ RegistrationData }) {
     <section className="">
       <Welcome className="" id="welcome2" />
       <p className="text-center py-7">
-        <i className="text-[1.5rem] font-extrabold text-center text-blue-500 uppercase">
+        <p
+          className="text-[2rem] font-extrabold text-center text-blue-500 "
+          id="space-mono-bold-italic"
+        >
           New Forms
-        </i>
+        </p>
       </p>
 
       <article className="flex justify-center items-center flex-wrap bg-gray-200 p-4 m-2 py-10 rounded-2xl shadow-2xl shadow-blue-800">
