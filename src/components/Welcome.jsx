@@ -14,7 +14,7 @@ const Welcome = () => {
         repeat: Infinity,
         // repeatDelay: 2,
       }}
-      className="inline-block text-nowrap poppins-black-italic"
+      className="inline-block text-nowrap poppins-black-italic py-3"
       id="welcome2"
     >
       <h1

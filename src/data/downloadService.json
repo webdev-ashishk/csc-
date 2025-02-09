@@ -25,7 +25,7 @@
     "id": 4,
     "title": "Ration Card Download",
     "description": "Download your ration card online for easy access to government benefits.",
-    "link": "https://nfsa.up.gov.in/Food/TrackingRationCard/NFSARCSearch.aspx",
+    "link": "https://nfsa.up.gov.in/Food/TrackingRationCard/TrackApplication.aspx",
     "imageUrl": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202201/ration-card-kaise-banaye-sixteen_nine.png?size=948:533"
   },
   {
@@ -41,5 +41,12 @@
     "description": "Download your ration card online for easy access to government benefits.",
     "link": "https://electoralsearch.eci.gov.in/",
     "imageUrl": "https://tse-mm.bing.com/th?q=voter%20id%20download"
+  },
+  {
+    "id": 7,
+    "title": "Aadhar Update and Enrollment",
+    "description": "Download your ration card online for easy access to government benefits.",
+    "link": "https://myaadhaar.uidai.gov.in/CheckAadhaarStatus/en",
+    "imageUrl": "https://www.godigit.com/content/dam/godigit/directportal/en/contenthm/aadhaar-card-correction.jpg"
   }
 ]

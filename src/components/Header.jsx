@@ -8,10 +8,9 @@ const Header = () => {
     setOpenMenu(!openMenu);
   }
 
-  console.log(openMenu);
   return (
     <div
-      className="w-full bg-gray-400 top-0 sticky"
+      className="w-full bg-gray-400 top-0 sticky shadow-md shadow-[#581c87]"
       id="space-mono-bold-italic"
     >
       <section className="bg-gray-400 flex justify-between items-center  lg:w-11/12 w-full mx-auto">
@@ -38,16 +37,6 @@ const Header = () => {
             </li>
           </ul>
         </nav>
-        {/* <img
-          src="https://img.icons8.com/m_rounded/512w/228BE6/hamburger.png"
-          alt="mobile item"
-         
-          width="50"
-          className="mr-4 cursor-pointer hidden"
-          onClick={() => {
-            smoothScroll(handleMenuClicked);
-          }}
-        /> */}
         <div
           className="hidden mr-2 text-3xl font-extrabold text-white cursor-pointer"
           id="hamburgerMenuIcon"

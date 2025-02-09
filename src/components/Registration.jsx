@@ -3,11 +3,10 @@
 import Welcome from './Welcome';
 
 export default function Registration({ RegistrationData }) {
-  console.log(RegistrationData);
   return (
     <section className="">
       <Welcome className="" id="welcome2" />
-      <p className="text-center py-7">
+      <p className="text-center py-2">
         <p
           className="text-[2rem] font-extrabold text-center text-blue-500 "
           id="space-mono-bold-italic"

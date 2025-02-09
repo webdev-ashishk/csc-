@@ -1,6 +1,5 @@
 /* eslint-disable react/prop-types */
 export default function Download({ DownloadServices }) {
-  console.log(DownloadServices);
   return (
     <section className="pt-20" id="downloadServices">
       <p className="text-center my-4">
@@ -11,7 +10,7 @@ export default function Download({ DownloadServices }) {
           Download Services
         </i>
       </p>
-      <article className="bg-gray-200 rounded-lg flex flex-wrap  lg:justify-start justify-center items-center gap-4 p-4 m-2 py-10 shadow-2xl shadow-green-800">
+      <article className="bg-gray-200 rounded-lg flex flex-wrap  lg:justify-start justify-center items-center gap-4 p-8 m-2 py-10 shadow-2xl shadow-green-800">
         {DownloadServices.map((element) => {
           return (
             <article

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Bijli Bill || Electricity Bill",
+    "description": "Download your ration card online for easy access to government benefits.",
+    "link": "https://consumer.uppcl.org/wss/pay_bill_home",
+    "imageUrl": "https://img.freepik.com/premium-photo/price-light_155113-476.jpg?w=996"
+  },
+  {
+    "id": 2,
+    "title": "LIC Premius Payment",
+    "description": "Download your ration card online for easy access to government benefits.",
+    "link": "https://ebiz.licindia.in/D2CPM/#DirectPay",
+    "imageUrl": "https://img-cdn.thepublive.com/fit-in/1200x675/financial-express-hindi/media/post_banners/douKf4674GxHy8XqxpFd.jpg"
+  }
+]
