@@ -35,6 +35,9 @@ const Header = () => {
             <li>
               <a href="#contactUs">ContactUs</a>
             </li>
+            <li>
+              <a href="#castesList">CastesList</a>
+            </li>
           </ul>
         </nav>
         <div
@@ -65,6 +68,10 @@ const Header = () => {
             <hr />
             <li>
               <a href="#downloadServices">DownloadSerivce</a>
+            </li>
+            <hr />
+            <li>
+              <a href="#castesList">CastesList</a>
             </li>
             <hr />
             <li>

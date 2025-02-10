@@ -15,7 +15,7 @@ export default function Registration({ RegistrationData }) {
         </p>
       </p>
 
-      <article className="flex justify-center lg:justify-start items-center flex-wrap bg-gray-200 px-10 m-2 py-12 rounded-lg shadow-2xl shadow-blue-400">
+      <article className="flex justify-center lg:justify-start items-center flex-wrap bg-gray-200 px-4 m-2 py-12 rounded-lg shadow-2xl shadow-blue-400">
         {RegistrationData.map((element) => (
           <article
             key={element.id}

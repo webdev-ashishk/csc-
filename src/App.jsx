@@ -3,6 +3,7 @@ import ContactUs from './components/ContactUs';
 import Footer from './components/Footer';
 import GotoTop from './components/GotoTop';
 import Header from './components/Header';
+import CastesList from './components/ListOfAllCasteCategory';
 import Services from './components/Services';
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <div className="lg:w-11/12 md:w-11/12 w-full m-auto">
         <GotoTop />
         <Services />
+        <CastesList />
         <ContactUs />
       </div>
       <Footer />
