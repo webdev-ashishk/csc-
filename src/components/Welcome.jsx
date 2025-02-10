@@ -4,10 +4,12 @@ const Welcome = () => {
     <motion.div
       initial={{
         opacity: 1,
+        fontSize: '32px',
       }}
       animate={{
         x: 1000,
         opacity: 0,
+        fontSize: '50px',
       }}
       transition={{
         duration: 15,
