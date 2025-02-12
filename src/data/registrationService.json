@@ -6,6 +6,7 @@
     "imageUrl": "https://media.licdn.com/dms/image/v2/D5612AQHIx2DfcAZWBA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1710239169098?e=2147483647&v=beta&t=dgkWiw9hV7SfucmiMzNQwo88Y2cVusL1MA0xUlFd1sM",
     "link": "https://esathi.up.gov.in/citizenservices/login/login.aspx?Xpr$lgnp=wwugTd7RXziquTBWLfMGNPnkHNxBD6qT"
   },
+
   {
     "id": 7,
     "title": "Birth & Death Certificate",
@@ -106,5 +107,12 @@
     "description": "Apply for or update your PAN card online effortlessly.",
     "imageUrl": "https://sdsuvonline.in/wp-content/uploads/2024/06/pm-kisan-samman-nidhi.webp",
     "link": "https://pmkisan.gov.in/"
+  },
+  {
+    "id": 993,
+    "title": "Know PM Kishan Registration No ",
+    "description": "",
+    "imageUrl": "https://www.rightsofemployees.com/wp-content/uploads/2024/06/PM-Kisan-23213.png",
+    "link": "https://pmkisan.gov.in/KnowYour_Registration.aspx"
   }
 ]
