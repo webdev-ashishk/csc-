@@ -83,7 +83,7 @@ const CastesList = () => {
         {/* SC List Section */}
         <div className="bg-white p-6 rounded-lg shadow-md mb-8">
           <h2 className="text-2xl font-bold text-gray-800 mb-4">
-            SC (Scheduled Castes) List
+            SC (Scheduled Castes) अनुसूचित जाति List
           </h2>
           <ul className="list-disc pl-6 space-y-2">
             <li>Ahlawat (अहलावत)</li>
@@ -107,7 +107,7 @@ const CastesList = () => {
         {/* ST List Section */}
         <div className="bg-white p-6 rounded-lg shadow-md mb-8">
           <h2 className="text-2xl font-bold text-gray-800 mb-4">
-            ST (Scheduled Tribes) List
+            ST (Scheduled Tribes) अनुसूचित जनजाति| List
           </h2>
           <ul className="list-disc pl-6 space-y-2">
             <li>Bakarwals (बकरवाल)</li>
@@ -125,7 +125,7 @@ const CastesList = () => {
         {/* Additional Castes List Section */}
         <div className="bg-white p-6 rounded-lg shadow-md mb-8">
           <h2 className="text-2xl font-bold text-gray-800 mb-4">
-            Other Castes (OBC)
+            Other Castes (OBC) | अन्य पिछड़ा वर्ग
           </h2>
           <ul className="list-disc pl-6 space-y-2">
             {OBC.map((element, index) => (
