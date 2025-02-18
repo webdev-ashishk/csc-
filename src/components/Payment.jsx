@@ -14,7 +14,7 @@ export default function Payment({ PaymentData }) {
           return (
             <article
               key={element.id}
-              className="rounded-2xl bg-blue-200 hover:bg-blue-400 inline-block overflow-hidden  border-2 hover:border-blue-800 ml-5 my-2"
+              className="rounded-2xl bg-blue-200 hover:bg-blue-400 inline-block overflow-hidden  border-2 hover:border-blue-800 ml-5 my-2 w-[300] h-[300]"
             >
               <a href={element.link} target="_blank" rel="noopener noreferrer">
                 <img
