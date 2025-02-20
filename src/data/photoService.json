@@ -7,6 +7,13 @@
     "imageUrl": "https://image.pi7.org/static/img/compress_image_to_40kb.jpeg"
   },
   {
+    "id": 11,
+    "title": "Iam Resizer",
+    "description": "Compress your images to 50KB without losing quality for online uploads.",
+    "link": "https://imresizer.com/resize-image-size-in-kb",
+    "imageUrl": "https://imresizer.com/images/og/resize-image.png"
+  },
+  {
     "id": 2,
     "title": "Image to PDF",
     "description": "Convert your images into high-quality PDFs easily and quickly.",

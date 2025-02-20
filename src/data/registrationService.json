@@ -14,13 +14,22 @@
     "imageUrl": "https://images.indianexpress.com/2016/08/birth-and-death-registration-759.jpg?w=414",
     "link": "https://dc.crsorgi.gov.in/crs/Auth/admin"
   },
+
+  {
+    "id": 4444,
+    "title": "Shadi Anudan | 20,000 RS",
+    "description": "Apply for the Shamuhik Shadi government welfare scheme online.",
+    "imageUrl": "https://gyansky.com/wp-content/uploads/2024/03/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A6%E0%A5%87%E0%A4%B6-%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9-%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%A6%E0%A4%BE%E0%A4%A8-%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE-Uttar-Pradesh-Vivah-anudan-Yojana-2024-1.jpg",
+    "link": "https://shadianudan.upsdc.gov.in/"
+  },
   {
     "id": 4,
-    "title": "Shamuhik Shadi",
+    "title": "Shamuhik Shadi | 51,000 RS",
     "description": "Apply for the Shamuhik Shadi government welfare scheme online.",
     "imageUrl": "https://blog-portals.s3.ap-south-1.amazonaws.com/Sarkariyojnaa/wp-content/uploads/imgs/Mukhyamantri-Samuhik-Vivah-Yojana0.webp",
     "link": "https://cmsvy.upsdc.gov.in/applicationforms.php"
   },
+
   {
     "id": 3,
     "title": "Voter ID",
@@ -35,6 +44,13 @@
     "description": "Get information and apply for the UP 5 Lakh Loan scheme.",
     "imageUrl": "https://studygovthelp.org/wp-content/uploads/2024/07/5-lakh-loan-intrest-free.jpg",
     "link": "https://msme.up.gov.in/"
+  },
+  {
+    "id": 5,
+    "title": "JanSamarth Loan",
+    "description": "Get information and apply for the UP 5 Lakh Loan scheme.",
+    "imageUrl": "https://meeseva.b-cdn.net/wp-content/uploads/2022/06/IMG_20220617_061323.jpg",
+    "link": "https://www.jansamarth.in/home"
   },
   {
     "id": 6,
