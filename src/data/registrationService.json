@@ -4,7 +4,13 @@
     "title": "E-District Services",
     "description": "Access income, caste, and domicile certificate services easily.",
     "imageUrl": "https://media.licdn.com/dms/image/v2/D5612AQHIx2DfcAZWBA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1710239169098?e=2147483647&v=beta&t=dgkWiw9hV7SfucmiMzNQwo88Y2cVusL1MA0xUlFd1sM",
-    "link": "https://esathi.up.gov.in/citizenservices/login/login.aspx?Xpr$lgnp=wwugTd7RXziquTBWLfMGNPnkHNxBD6qT"
+    "link": "https://esathi.up.gov.in/citizenservices/login/login.aspx?Xpr$lgnp=wwugTd7RXziquTBWLfMGNPnkHNxBD6qT",
+    "requiredDocuments": [
+      "Parivar_Register",
+      "aAdharCard",
+      "Photos",
+      "Mobile_Number"
+    ]
   },
 
   {
@@ -12,7 +18,13 @@
     "title": "Birth & Death Certificate",
     "description": "Apply for or download your birth and death certificates online.",
     "imageUrl": "https://images.indianexpress.com/2016/08/birth-and-death-registration-759.jpg?w=414",
-    "link": "https://dc.crsorgi.gov.in/crs/Auth/admin"
+    "link": "https://dc.crsorgi.gov.in/crs/Auth/admin",
+    "requiredDocuments": [
+      "Child_aAdharCard",
+      "Affid_defid",
+      "father_aadharCard",
+      "mother_aadharCard"
+    ]
   },
 
   {
@@ -20,14 +32,26 @@
     "title": "Shadi Anudan | 20,000 RS",
     "description": "Apply for the Shamuhik Shadi government welfare scheme online.",
     "imageUrl": "https://gyansky.com/wp-content/uploads/2024/03/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A6%E0%A5%87%E0%A4%B6-%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9-%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%A6%E0%A4%BE%E0%A4%A8-%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE-Uttar-Pradesh-Vivah-anudan-Yojana-2024-1.jpg",
-    "link": "https://shadianudan.upsdc.gov.in/"
+    "link": "https://shadianudan.upsdc.gov.in/",
+    "requiredDocuments": [
+      "Parivar_Register",
+      "aAdharCard",
+      "Photos",
+      "Mobile_Number"
+    ]
   },
   {
     "id": 4,
     "title": "Shamuhik Shadi | 51,000 RS",
     "description": "Apply for the Shamuhik Shadi government welfare scheme online.",
     "imageUrl": "https://blog-portals.s3.ap-south-1.amazonaws.com/Sarkariyojnaa/wp-content/uploads/imgs/Mukhyamantri-Samuhik-Vivah-Yojana0.webp",
-    "link": "https://cmsvy.upsdc.gov.in/applicationforms.php"
+    "link": "https://cmsvy.upsdc.gov.in/applicationforms.php",
+    "requiredDocuments": [
+      "Parivar_Register",
+      "aAdharCard",
+      "Photos",
+      "Mobile_Number"
+    ]
   },
 
   {
@@ -35,7 +59,13 @@
     "title": "Voter ID",
     "description": "Apply for a new Voter ID or update existing details online.",
     "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2022/3/PW/AY/ID/76183722/voting-card-services.png",
-    "link": "https://voters.eci.gov.in/"
+    "link": "https://voters.eci.gov.in/",
+    "requiredDocuments": [
+      "Parivar_Register",
+      "aAdharCard",
+      "Photos",
+      "Mobile_Number"
+    ]
   },
 
   {
@@ -43,21 +73,39 @@
     "title": "UP 5 Lakh Loan",
     "description": "Get information and apply for the UP 5 Lakh Loan scheme.",
     "imageUrl": "https://studygovthelp.org/wp-content/uploads/2024/07/5-lakh-loan-intrest-free.jpg",
-    "link": "https://msme.up.gov.in/"
+    "link": "https://msme.up.gov.in/",
+    "requiredDocuments": [
+      "Parivar_Register",
+      "aAdharCard",
+      "Photos",
+      "Mobile_Number"
+    ]
   },
   {
     "id": 5,
     "title": "JanSamarth Loan",
     "description": "Get information and apply for the UP 5 Lakh Loan scheme.",
     "imageUrl": "https://meeseva.b-cdn.net/wp-content/uploads/2022/06/IMG_20220617_061323.jpg",
-    "link": "https://www.jansamarth.in/home"
+    "link": "https://www.jansamarth.in/home",
+    "requiredDocuments": [
+      "Parivar_Register",
+      "aAdharCard",
+      "Photos",
+      "Mobile_Number"
+    ]
   },
   {
     "id": 6,
     "title": "Scholarship",
     "description": "Apply for state and central government scholarships easily.",
     "imageUrl": "https://www.sarkariupdate247.com/wp-content/uploads/2023/10/IMG_20231004_095640.jpg",
-    "link": "https://scholarship.up.gov.in/"
+    "link": "https://scholarship.up.gov.in/",
+    "requiredDocuments": [
+      "Parivar_Register",
+      "aAdharCard",
+      "Photos",
+      "Mobile_Number"
+    ]
   },
 
   {
@@ -66,69 +114,129 @@
     "description": "Apply for a police character certificate quickly and securely.",
     "imageUrl": "https://bcsportal.com/wp-content/uploads/2023/12/UP-POLICE.jpg",
 
-    "link": "https://cctnsup.gov.in/citizenportal/login.aspx?cd=NAA0ADEANgA%3D"
+    "link": "https://cctnsup.gov.in/citizenportal/login.aspx?cd=NAA0ADEANgA%3D",
+    "requiredDocuments": [
+      "Parivar_Register",
+      "aAdharCard",
+      "Photos",
+      "Mobile_Number"
+    ]
   },
   {
     "id": 9,
     "title": "Rashtriya Parivarik Labh",
     "description": "Get assistance under the Rashtriya Parivarik Labh welfare scheme.",
     "imageUrl": "https://pmujjwalayojana.in/wp-content/uploads/2024/04/rashtriya-parivarik-labh-yojana.jpg",
-    "link": "https://nfbs.upsdc.gov.in/NFBS2022_23/index.aspx"
+    "link": "https://nfbs.upsdc.gov.in/NFBS2022_23/index.aspx",
+    "requiredDocuments": [
+      "Parivar_Register",
+      "aAdharCard",
+      "Photos",
+      "Mobile_Number"
+    ]
   },
   {
     "id": 10,
     "title": "Kanya Sumangala",
     "description": "Apply for the Kanya Sumangala scheme for girl child welfare.",
     "imageUrl": "https://www.jagranimages.com/images/newimg/18122024/18_12_2024-kanya_sumangala_yojana_status_23850959.jpg",
-    "link": "https://mksy.up.gov.in/women_welfare/citizen/guest_login.php"
+    "link": "https://mksy.up.gov.in/women_welfare/citizen/guest_login.php",
+    "requiredDocuments": [
+      "Parivar_Register",
+      "aAdharCard",
+      "Photos",
+      "Mobile_Number"
+    ]
   },
   {
     "id": 1,
     "title": "PAN Card",
     "description": "Apply for or update your PAN card online effortlessly.",
     "imageUrl": "https://images.livemint.com/img/2019/10/25/600x338/pan_card_1565610340828_1572021543426.PNG",
-    "link": "https://www.onlineservices.nsdl.com/paam/endUserRegisterContact.html"
+    "link": "https://www.onlineservices.nsdl.com/paam/endUserRegisterContact.html",
+    "requiredDocuments": [
+      "Parivar_Register",
+      "aAdharCard",
+      "Photos",
+      "Mobile_Number"
+    ]
   },
   {
     "id": 100,
     "title": "Driving Licence",
     "description": "Apply for or update your PAN card online effortlessly.",
     "imageUrl": "https://c.ndtvimg.com/2022-01/drpdf0m_car_625x300_14_January_22.jpg",
-    "link": "https://parivahan.gov.in/parivahan/"
+    "link": "https://parivahan.gov.in/parivahan/",
+    "requiredDocuments": [
+      "Parivar_Register",
+      "aAdharCard",
+      "Photos",
+      "Mobile_Number"
+    ]
   },
   {
     "id": 999,
     "title": "Labour Card || Panjiyan",
     "description": "Apply for or update your PAN card online effortlessly.",
     "imageUrl": "https://i.ytimg.com/vi/tHznoWrlhKw/maxresdefault.jpg",
-    "link": "https://www.upbocw.in/"
+    "link": "https://www.upbocw.in/",
+    "requiredDocuments": [
+      "Parivar_Register",
+      "aAdharCard",
+      "Photos",
+      "Mobile_Number"
+    ]
   },
   {
     "id": 990,
     "title": "Manrega Card || Nrega Card",
     "description": "Apply for or update your PAN card online effortlessly.",
     "imageUrl": "https://akm-img-a-in.tosshub.com/aajtak/images/story/201509/mnrega_144231342838_650x425_091515040830.jpg?size=948:533",
-    "link": "https://nrega.nic.in/homegp_new.aspx"
+    "link": "https://nrega.nic.in/homegp_new.aspx",
+    "requiredDocuments": [
+      "Parivar_Register",
+      "aAdharCard",
+      "Photos",
+      "Mobile_Number"
+    ]
   },
   {
     "id": 991,
     "title": "OLD AGE PENSION",
     "description": "Apply for or update your PAN card online effortlessly.",
     "imageUrl": "https://onlinesociety.in/wp-content/uploads/2024/11/Old-age-pension.jpg",
-    "link": "https://sspy-up.gov.in/HindiPages/index_h.aspx"
+    "link": "https://sspy-up.gov.in/HindiPages/index_h.aspx",
+    "requiredDocuments": [
+      "Parivar_Register",
+      "aAdharCard",
+      "Photos",
+      "Mobile_Number"
+    ]
   },
   {
     "id": 992,
     "title": "PM KISHAN SAMANIDHI",
     "description": "Apply for or update your PAN card online effortlessly.",
     "imageUrl": "https://sdsuvonline.in/wp-content/uploads/2024/06/pm-kisan-samman-nidhi.webp",
-    "link": "https://pmkisan.gov.in/"
+    "link": "https://pmkisan.gov.in/",
+    "requiredDocuments": [
+      "Parivar_Register",
+      "aAdharCard",
+      "Photos",
+      "Mobile_Number"
+    ]
   },
   {
     "id": 993,
     "title": "Know PM Kishan Registration No ",
     "description": "",
     "imageUrl": "https://www.rightsofemployees.com/wp-content/uploads/2024/06/PM-Kisan-23213.png",
-    "link": "https://pmkisan.gov.in/KnowYour_Registration.aspx"
+    "link": "https://pmkisan.gov.in/KnowYour_Registration.aspx",
+    "requiredDocuments": [
+      "Parivar_Register",
+      "aAdharCard",
+      "Photos",
+      "Mobile_Number"
+    ]
   }
 ]

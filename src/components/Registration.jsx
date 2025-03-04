@@ -1,5 +1,6 @@
 /* eslint-disable react/prop-types */
 
+import { Link } from 'react-router-dom';
 import Welcome from './Welcome';
 
 export default function Registration({ RegistrationData }) {
@@ -30,10 +31,13 @@ export default function Registration({ RegistrationData }) {
                 width={300}
                 height={200}
               />
-              <p className="font-bold text-[0.9rem] text-center">
-                {element.title}
-              </p>
             </a>
+            <div className="font-bold text-[0.9rem] text-center flex justify-between px-5">
+              <span className="">{element.title}</span>
+              <Link to={`/registrationDetails/${element.id}`}>
+                <span className="bg-blue-400 p-2">Details</span>
+              </Link>
+            </div>
           </article>
         ))}
       </article>
